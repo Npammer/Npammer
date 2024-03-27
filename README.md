@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikolai</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
-<h4 align="center">Currently located: Da Nang, Vietnam</h4>
+<h4 align="center">Currently located: Oslo, Norway</h4>
 
-- 🔭 I’m currently working on [a Flashcard MVC project](https://github.com/Npammer/Flashcard-MVC)
+- 🔭 I’m currently working on learning Next & Typescript [nextjs-dashboard]([https://github.com/Npammer/Flashcard-MVC](https://github.com/Npammer/nextjs-dashboard))
 
 - 🌱 I’m currently learning **Typescript & NextJS**
 
