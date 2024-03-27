@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Norway</h3>
 <h4 align="center">Currently located: Oslo, Norway</h4>
 
-- 🔭 I’m currently working on learning Next & Typescript [nextjs-dashboard]([https://github.com/Npammer/Flashcard-MVC](https://github.com/Npammer/nextjs-dashboard))
+- 🔭 I’m currently working on learning Next & Typescript [nextjs-dashboard](https://github.com/Npammer/Flashcard-MVC](https://github.com/Npammer/nextjs-dashboard))
 
 - 🌱 I’m currently learning **Typescript & NextJS**
 
